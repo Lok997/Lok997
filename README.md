@@ -1,98 +1,187 @@
-# Hi 👋, I'm Lokesh Chaudhari
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lokesh+Chaudhari;Data+Analyst+%7C+Software+Engineer;Aspiring+AI+%2F+ML+Engineer" alt="Typing SVG" />
+</h1>
 
-### 🚀 Data Analyst | Software Engineer | Aspiring AI Engineer
-
-[cite_start]Senior BCA student passionate about bridging the gap between robust software engineering practices and data-driven intelligence[cite: 5, 45]. [cite_start]Experienced in building full-stack web applications, engineering automated ETL pipelines, and deploying interactive business intelligence dashboards[cite: 5, 12, 27].
-
-[cite_start]📊 **Data Impact:** Transformed raw business data into executive-level reporting insights, managing datasets exceeding 8,500+ records and optimizing analytics workflows[cite: 15, 35, 61].
-[cite_start]⚙️ **Automation Impact:** Reduced manual data transformation effort by 40% and cut data preprocessing times by up to 50% across industry internships and engineering projects[cite: 6, 22, 43].
+<p align="center">
+  <a href="https://linkedin.com/in/lokeshchaudhari9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Lok997"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:lokeshchaudhari997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/lokeshchaudhari025"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠️ Technical Ecosystem
+## 🚀 About Me
 
-### 👨‍💻 Programming & Core Software Engineering
-* [cite_start]**Languages:** Python (Intermediate) [cite: 64][cite_start], Java [cite: 9][cite_start], C [cite: 9][cite_start], C++ [cite: 9][cite_start], Structured Query Language (SQL) [cite: 64]
-* [cite_start]**Web Technologies:** HTML5 [cite: 11][cite_start], CSS3 [cite: 11][cite_start], JavaScript (ES6+) [cite: 11][cite_start], Node.js [cite: 11][cite_start], REST APIs [cite: 11]
-* [cite_start]**Core Competencies:** Object-Oriented Programming (OOP) [cite: 12][cite_start], Data Structures & Algorithms [cite: 12][cite_start], System Authentication [cite: 30]
+> **Senior BCA student** bridging robust software engineering with data-driven intelligence.  
+> I build **full-stack web apps**, engineer **ETL pipelines**, and deploy **interactive BI dashboards** that turn raw data into executive-level insights.
 
-### 📊 Data Analytics & Business Intelligence
-* [cite_start]**BI Tools:** Power BI (Advanced) [cite: 65][cite_start], Tableau [cite: 12][cite_start], Dashboard Development [cite: 65]
-* [cite_start]**Data Engineering:** Power Query [cite: 12][cite_start], ETL Pipelines [cite: 12][cite_start], Star Schema [cite: 12][cite_start], Data Modeling [cite: 12]
-* [cite_start]**Advanced Analytics:** Data Analysis Expressions (DAX) [cite: 12][cite_start], Excel (VLOOKUP, Pivot Tables) [cite: 10]
+| 🎓 Education | 🏆 CGPA | 📍 Location |
+|---|---|---|
+| BCA — G.H. Raisoni Institute (NAAC) | **9.02 / 10** *(Top Batch Performer)* | Maharashtra, India |
+
+---
+
+## 📊 Impact at a Glance
+
+<table>
+<tr>
+<td align="center">⚡</td>
+<td><strong>40%</strong> reduction in manual data transformation effort</td>
+</tr>
+<tr>
+<td align="center">📈</td>
+<td><strong>8,500+</strong> records analyzed across BI projects</td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td><strong>50%</strong> cut in data preprocessing time via Power Query automation</td>
+</tr>
+<tr>
+<td align="center">🎯</td>
+<td><strong>20%</strong> boost in dataset reliability through ETL standardization</td>
+</tr>
+<tr>
+<td align="center">🧹</td>
+<td><strong>15%+</strong> data inconsistencies eliminated in ML pipeline</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Technical Ecosystem
+
+### 👨‍💻 Languages & Core Engineering
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 📊 Business Intelligence & Analytics
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-FF6B35?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ### 🤖 Machine Learning & Data Science
-* [cite_start]**Libraries:** Pandas [cite: 11][cite_start], NumPy [cite: 11][cite_start], Scikit-learn [cite: 11]
-* [cite_start]**Methodologies:** Exploratory Data Analysis (EDA) [cite: 68][cite_start], Data Preprocessing [cite: 11][cite_start], Feature Engineering [cite: 11][cite_start], Model Evaluation [cite: 11]
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-8B5CF6?style=for-the-badge&logo=python&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-06B6D4?style=for-the-badge&logo=python&logoColor=white)
 
-### ⚙️ Tools & Platforms
-* [cite_start]**Version Control & Utilities:** Git, GitHub [cite: 10][cite_start], VS Code, MySQL [cite: 10]
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🚀 Professional Experience
+## 💼 Professional Experience
 
-### 📊 Power BI Intern — Microsoft Elevate Program (AICTE-Certified)
-*Remote, India | Feb 2026 – Mar 2026* [cite: 14]
-* [cite_start]**Dashboard Architecture:** Engineered an end-to-end Business Intelligence dashboard featuring 5+ dynamic visualizations and KPI cards to convert raw data into executive-level insights[cite: 14, 15].
-* [cite_start]**Data Modeling Optimization:** Implemented star-schema relational structures and optimized calculations using DAX measures, completely eliminating data reporting errors across computed fields[cite: 16].
-* [cite_start]**Continuous Learning:** Completed 10+ Microsoft Learn modules covering advanced data modeling, Directed Acyclic Graph (DAG) relationships, and cloud-based report publishing[cite: 17, 76].
+### 📊 Power BI Intern — Business Intelligence
+**Microsoft Elevate Program (AICTE-Certified)** · Remote, India · *Feb 2026 – Mar 2026*
 
-### 🤖 AI / ML Intern — iBase Electrosoft LLP
-*India | [cite_start]Dec 2025 – Jan 2026* [cite: 19, 20]
-* [cite_start]**Data Wrangling:** Processed and cleaned structured datasets exceeding 5,000 records using Pandas and NumPy, eliminating over 15% of data inconsistencies[cite: 21, 78].
-* [cite_start]**Pipeline Automation:** Automated Python-based data preprocessing pipelines, reducing manual transformation efforts by 40% compared to legacy spreadsheet workflows[cite: 22].
-* [cite_start]**Model Engineering:** Developed and evaluated Machine Learning classification models using Scikit-learn, benchmarking performance across key metrics including accuracy, precision, and recall[cite: 23].
+- 🏗️ **Dashboard Architecture** — Engineered an end-to-end BI dashboard with 5+ dynamic visualizations and KPI cards, converting raw business data into executive-level reporting insights.
+- ⚙️ **Data Modeling** — Implemented star-schema relational structures and DAX calculated measures, eliminating reporting errors across all computed fields.
+- 📚 **Continuous Learning** — Completed 10+ Microsoft Learn modules covering advanced data modeling, DAG relationships, and cloud-based report publishing.
+
+---
+
+### 🤖 AI / ML Intern
+**iBase Electrosoft LLP** · India · *Dec 2025 – Jan 2026*
+
+- 🧹 **Data Wrangling** — Processed and cleaned 5,000+ structured records using Pandas and NumPy, eliminating 15%+ data inconsistencies.
+- ⚡ **Pipeline Automation** — Automated Python-based preprocessing pipelines, cutting manual transformation effort by **40%** vs. legacy spreadsheet workflows.
+- 🔬 **Model Engineering** — Developed and benchmarked ML classification models using Scikit-learn across accuracy, precision, and recall metrics.
 
 ---
 
 ## 📌 Featured Projects
 
 ### 💻 Student Placement Management System
-[cite_start]*Java, MySQL, HTML5, CSS3, JavaScript* [cite: 26]
-* [cite_start]**Full-Stack Architecture:** Developed a web-based platform to streamline student registrations, corporate applications, and end-to-end placement tracking for institutional scale[cite: 27].
-* [cite_start]**Database Design:** Engineered normalized relational database schemas in MySQL; optimized table indexing to sharply accelerate query execution and data retrieval times[cite: 28, 29].
-* [cite_start]**Security & UI:** Implemented secure, server-side validated, session-based authentication for students and administrators while building responsive front-end interfaces for seamless mobile and desktop cross-device accessibility[cite: 30, 31].
+`Java` `MySQL` `HTML5` `CSS3` `JavaScript`
+
+> A full-stack web platform streamlining student registrations, corporate applications, and placement tracking at institutional scale.
+
+- 🗄️ Normalized relational DB schemas (student profiles, company records, application logs) with optimized table indexing.
+- 🔐 Secure session-based authentication for students and administrators with server-side form validation.
+- 📱 Responsive front-end with cross-device accessibility (desktop & mobile).
+
+---
 
 ### 🛍️ Blinkit Sales Analysis Dashboard
-[cite_start]*Power BI, DAX, Power Query, Excel* [cite: 33] [cite_start]• [**GitHub Repository**](https://github.com/Lok997) [cite: 34]
-* [cite_start]**Granular Analysis:** Analyzed 8,500+ sales records across product categories and geographic tiers, uncovering an 18%+ revenue growth trend in Tier 2 cities compared to Tier 1[cite: 35, 36].
-* [cite_start]**Inventory Optimization:** Built an interactive dashboard with 6+ KPI cards and drill-down filters that quantified a 25%+ surge in low-fat product demand, enabling inventory allocation efficiency improvements of 10-15%[cite: 37, 38].
-* [cite_start]**ETL Engineering:** Executed data cleaning and standardization via Power Query across 3+ data dimensions, boosting dataset reliability by 20%[cite: 39].
+`Power BI` `DAX` `Power Query` `Excel` · [**View on GitHub →**](https://github.com/Lok997)
+
+> Analyzed 8,500+ sales records to uncover actionable business insights across product categories and geographic tiers.
+
+- 📈 Discovered **18%+ stronger revenue growth** in Tier 2 cities vs. Tier 1.
+- 📦 Quantified **25%+ surge** in low-fat product demand, enabling **10–15% inventory allocation efficiency** improvements.
+- 🔄 ETL pipeline via Power Query across 3+ data dimensions — **20% improvement** in dataset reliability.
+
+---
 
 ### 📱 Mobile Sales Performance Dashboard
-[cite_start]*Power BI, Excel, Power Query, Star Schema* [cite: 41] [cite_start]• [**GitHub Repository**](https://github.com/Lok997) [cite: 41]
-* [cite_start]**Performance Tracking:** Engineered an interactive analytics dashboard to monitor revenue, units sold, and margin trends across distinct product categories and geographic regions[cite: 42, 93].
-* [cite_start]**Workflow Acceleration:** Designed 8+ chart types integrated with dynamic filters and slicers, slashing data preprocessing time by 50% via automated Power Query transformations[cite: 43].
+`Power BI` `Excel` `Power Query` `Star Schema` · [**View on GitHub →**](https://github.com/Lok997)
+
+> Interactive analytics dashboard tracking revenue, units sold, and margin trends across product categories and regions.
+
+- 📊 8+ chart types with dynamic slicers and drill-down filters.
+- ⚡ Automated Power Query transformations reduced data preprocessing time by **50%**.
+- 🏗️ Star-schema data model for scalable, high-performance analytics.
 
 ---
 
 ## 🏆 Certifications
 
-* [cite_start]**Google:** Google Analytics Certification (*Google Skillshop*) [cite: 48]
-* [cite_start]**Microsoft:** Data Analytics Learning Path (*Microsoft Learn*) [cite: 49]
-* [cite_start]**Tata:** GenAI-Powered Data Analytics Job Simulation (*Forage*) [cite: 101]
-* [cite_start]**Deloitte:** Australia Data Analytics Job Simulation (*Forage*) [cite: 102]
+| 🏅 Certification | 🏢 Issuer | 📅 Year |
+|---|---|---|
+| Google Analytics Certification | Google Skillshop | 2025 |
+| Data Analytics Learning Path | Microsoft Learn | 2026 |
+| GenAI-Powered Data Analytics Job Simulation | Tata · Forage | 2025 |
+| Australia Data Analytics Job Simulation | Deloitte · Forage | 2025 |
 
 ---
 
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokeshchaudhari9) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokeshchaudhari997@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lokeshchaudhari025)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lok997&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lok997&theme=github_dark&hide_border=true&layout=compact" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Lok997&theme=github-dark-blue&hide_border=true"/>
+</p>
 
 ---
 
-## 💻 Tech Stack Badges:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+### ✍️ Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Lok997&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Lok997&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lok997&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lok997&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=Lok997&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <em>📍 Maharashtra, India · 📞 +91 9106510888 · Open to Data Analyst, Software Engineer & AI/ML roles</em>
+</p>
